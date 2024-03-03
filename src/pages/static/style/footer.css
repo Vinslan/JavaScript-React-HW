@@ -1,0 +1,28 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.flex_things{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap:200px;
+
+}
+
+.listLinks{
+    display: flex;
+    gap:30px;
+}
+
+.footer{
+    background-color: black;
+    color:white;
+}
+
+
+.listLinks a{
+    color: white;
+}
